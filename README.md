@@ -22,3 +22,5 @@ conda activate (name environment)
 conda activate (name environment)
 3. Type python app.py in anaconda prompt
 4. The the program will running on http://127.0.0.1:5000/
+5. Copy paste in your browser
+8. Finally you can comunicate with Jagabota Chatbot
