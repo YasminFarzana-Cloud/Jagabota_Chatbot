@@ -1,3 +1,4 @@
+#Jagabota Chatbot
 Jagabota is a chatbot that can provide information about tourist attractions in the regencies/cities of Central Java. The information provided includes explanations about the tourist attractions, ticket prices, opening and closing hours, as well as the location maps of the tourist attractions.
 
 How to run Jagabota_Chatbot on your local host?
